@@ -13,7 +13,7 @@ Internship Type - Work from Home
 
 
 
-# Task-1 : Basic Banking System     <a href= ><img src="https://beaconman.com/wp-content/uploads/2020/11/Linkedin_symbol_transparent.png" width="50" height="50" align="right"></a>                                  
+# Task-1 : Basic Banking System     <img src="https://beaconman.com/wp-content/uploads/2020/11/Linkedin_symbol_transparent.png" width="50" height="50" align="right">                                  
 ◇ Create a simple dynamic website which has the following specs.
 
 ◇ Start with creating a dummy data in database for upto 10
